@@ -25,7 +25,7 @@ app.get('/badmethod',(req,res)=>{
   })
 
 app.get('/bad',(req,res)=>{
-    res.status(404).send('this is pad route')
+    res.status(500).send('this is pad route')
 })
 
 
