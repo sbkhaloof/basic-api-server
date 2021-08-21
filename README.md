@@ -9,7 +9,13 @@
 5. install some libraly as express, dotenve ,jest, supertest.and create DB then write the correct content in the files
 6. go to herouko and deploy once for the main branch and other for div branch
 
-[pull request](https://github.com/sbkhaloof/basic-api-server/pull/1)
+
+![](lab3.png)
+
+![](test-lab-3.PNG)
+
+[pull request](https://github.com/sbkhaloof/basic-api-server/pull/6
+)
 
 [github action](https://github.com/sbkhaloof/basic-api-server/actions)
 
